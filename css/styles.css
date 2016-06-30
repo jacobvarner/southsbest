@@ -1,0 +1,71 @@
+#homeHeader {
+	font-size: 3.2em;
+	text-align: center;
+	color: #03244d;
+	margin-bottom: 0px;
+}
+
+#homeSubHeader {
+	font-size: 2em;
+	text-align: center;
+	color: #03244d;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+#homeParticipants {
+	font-size: 1.75em;
+	text-align: center;
+	color: #f68026;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#homeDate {
+	font-size: 2.5em;
+	font-weight: bold;
+	text-align: center;
+	color: black;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.hubName {
+	margin: 0;
+	padding: 0;
+}
+
+.hubLocation {
+	margin: 0;
+	padding: 0;
+}
+
+.aboutText {
+	font-size: 18px;
+}
+
+.teamsHubImage {
+	margin-right: 10px;
+}
+
+.teamsHubImage {
+	float: left;
+}
+
+.teamsHubName {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.teamsHubHost {
+	font-weight: bold;
+}
+
+.teamsNames {
+	font-size: 16px;
+}
+
+.results-btn {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
